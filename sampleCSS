@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Fruktur&display=swap');
-body {
-  font-family: 'Fruktur', cursive;
-  color: purple;
-  background-color: #d8da3d;
-  font-size: 45px;
-  }
+/* Bosch Font */
+@font-face {
+  font-family: 'BoschSans';
+  src:
+    url('https://brandguide-cdn.azureedge.net/fonts/BoschSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
