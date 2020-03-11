@@ -1,4 +1,6 @@
 /* Bosch Font */
 @font-face {
   font-family: 'BoschSans';
+  src:
+		url('https://michadelic.github.io/CustomFontsSAC/SAP-icons.woff2') format('woff2');
 }
